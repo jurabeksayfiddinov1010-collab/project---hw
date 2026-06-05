@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    font-family: sans-serif;
+    font-weight: 150;
+}
+.main{
+    display: flex;
+    width:80%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    margin:auto;
+}
+.pGet{
+    width: 150px;
+    background-color: #FF7143;
+    color:white;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    font-size: 15px;
+}
+.pGet2{
+    width: 100px;
+    background-color: #5454D4;
+    color:white;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+.main2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    gap:100px;
+ 
+}
+.texto{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.ikonki{
+        padding:50px;
+        display: flex;
+       
+        align-items: center;
+        justify-content: space-between;
+}
+.main3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    gap:100px;
+    
+}
+.textoi2{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    justify-content: space-between;
+   
+    
+    
+}
+.dazz{
+    display: flex;
+     margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    gap:100px;
+    padding: 60px;
+
+    
+   
+}
+.texta{
+     width:70%;
+}
+.sale1{
+    width: 150px;
+    height: 250px;
+    background-color: #F8F8F8;
+    text-align: center;
+   padding: 15px;
+    justify-items: center;
+    border-radius: 5%;
+}
+.pGet3{
+    width: 100px;
+    background-color: #ffffff;
+    color:#5454D4;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+}
+.pGet4{
+    width: 100px;
+    background-color: #9F3919;
+    color:white;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+}
+.sale2{
+    width: 170px;
+    height: 270px;
+    background-color: #FF7143;
+    text-align: center;
+   padding: 15px;
+    justify-items: center;
+    border-radius: 5%;
+}
+.sale3{
+    width: 150px;
+    height: 250px;
+    background-color: #F8F8F8;
+    text-align: center;
+   padding: 15px;
+    justify-items: center;
+    border-radius: 5%;
+}
+.sales{
+    display: flex;
+    gap:30px;
+    align-content: center;
+    justify-content: center;
+}
